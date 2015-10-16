@@ -2,6 +2,7 @@
 
 int main () {
 	std::cout << "should be fine right" << std::endl;
+	
 	std::cout << "diverging that history" << std::endl;
 	std::cout << "does it conflict" << std::endl;
 	//coment
