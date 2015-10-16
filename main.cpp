@@ -1,7 +1,7 @@
 #include <iostream> 
 
 int main () {
-	std::cout << "fun with branches" << std::endl;
+	std::cout << "diverging that history" << std::endl;
 	//coment
 	std::cout << "One more line" << std::endl;
 	std::cout << "Another change" << std::endl;	
